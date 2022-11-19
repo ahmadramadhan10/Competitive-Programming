@@ -1,2 +1,2 @@
-# competitive-programming
+# Competitive-programming
 code, document, template, dll.
